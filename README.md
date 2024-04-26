@@ -76,3 +76,15 @@ This README provides an overview of the project, its prerequisites, installation
 
 ![IMG_3696](https://github.com/vanshksingh/RPI_AC_Control/assets/114809624/990bd947-2244-4ada-b4dd-9287d6784f5c)
 
+
+
+
+
+
+## An new file containg servo actuation code is included to control AC units by direct manipulation of The remote 
+
+
+![IMG_3884](https://github.com/vanshksingh/RPI_AC_Control/assets/114809624/dee4b1bc-d66b-45e8-bb43-95ca8793cc37)
+
+
+
